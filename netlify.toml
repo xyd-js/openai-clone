@@ -1,11 +1,13 @@
 [[redirects]]
   from = "/"
-  to = "/api-reference"
+  to = "/api-reference/introduction"
   status = 301
   force = true
 
 [[redirects]]
   from = "/index.html"
-  to = "/api-reference"
+  to = "/api-reference/introduction"
   status = 301
   force = true
+
+ 
