@@ -1,0 +1,216 @@
+{
+  "../../examples/openapi-openai/virtual:xyd-plugin-orama-data": {
+    "file": "assets/_virtual_xyd-plugin-orama-data-CLAbVqmo.js",
+    "name": "_virtual_xyd-plugin-orama-data",
+    "src": "../../examples/openapi-openai/virtual:xyd-plugin-orama-data",
+    "isDynamicEntry": true
+  },
+  "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs": {
+    "file": "assets/hydrate-AIHPUTTV-D2eMjT4j.js",
+    "name": "hydrate-AIHPUTTV",
+    "src": "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-ta39k6Rz.js",
+      "_layout-UQpxOEHG.js",
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_context-Ndc2xEmu.js",
+      "_index-Ci-uESjJ.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-button_25.entry-7ZAUWM3R.mjs": {
+    "file": "assets/orama-button_25.entry-7ZAUWM3R-cAhTGrjm.js",
+    "name": "orama-button_25.entry-7ZAUWM3R",
+    "src": "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-button_25.entry-7ZAUWM3R.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-ta39k6Rz.js",
+      "_layout-UQpxOEHG.js",
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_context-Ndc2xEmu.js",
+      "_index-Ci-uESjJ.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-logo-icon.entry-WVNY5LER.mjs": {
+    "file": "assets/orama-logo-icon.entry-WVNY5LER-BtCj8NUB.js",
+    "name": "orama-logo-icon.entry-WVNY5LER",
+    "src": "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-logo-icon.entry-WVNY5LER.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-ta39k6Rz.js",
+      "_layout-UQpxOEHG.js",
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_context-Ndc2xEmu.js",
+      "_index-Ci-uESjJ.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js"
+    ]
+  },
+  "../../node_modules/.pnpm/@stencil+react-output-target@0.8.2_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@stencil/react-output-target/dist/ssr.js": {
+    "file": "assets/ssr-DbKSdJnL.js",
+    "name": "ssr",
+    "src": "../../node_modules/.pnpm/@stencil+react-output-target@0.8.2_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@stencil/react-output-target/dist/ssr.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_layout-UQpxOEHG.js",
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_index-Ci-uESjJ.js",
+      "_context-Ndc2xEmu.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js"
+    ],
+    "dynamicImports": [
+      "_layout-UQpxOEHG.js"
+    ]
+  },
+  "_chunk-NL6KNZEE-DIboV0aN.js": {
+    "file": "assets/chunk-NL6KNZEE-DIboV0aN.js",
+    "name": "chunk-NL6KNZEE"
+  },
+  "_context-Ndc2xEmu.js": {
+    "file": "assets/context-Ndc2xEmu.js",
+    "name": "context",
+    "imports": [
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_index-Ci-uESjJ.js"
+    ]
+  },
+  "_index-Ci-uESjJ.js": {
+    "file": "assets/index-Ci-uESjJ.js",
+    "name": "index",
+    "imports": [
+      "_chunk-NL6KNZEE-DIboV0aN.js"
+    ]
+  },
+  "_index-ta39k6Rz.js": {
+    "file": "assets/index-ta39k6Rz.js",
+    "name": "index",
+    "isDynamicEntry": true,
+    "imports": [
+      "_layout-UQpxOEHG.js",
+      "_chunk-NL6KNZEE-DIboV0aN.js"
+    ],
+    "dynamicImports": [
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-button_25.entry-7ZAUWM3R.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-logo-icon.entry-WVNY5LER.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-button_25.entry-7ZAUWM3R.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/orama-logo-icon.entry-WVNY5LER.mjs",
+      "../../node_modules/.pnpm/@stencil+react-output-target@0.8.2_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@stencil/react-output-target/dist/ssr.js",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs",
+      "../../node_modules/.pnpm/@orama+react-components@0.7.0_@stencil+core@4.27.0_@types+react@19.1.6_react-dom@19.0.0_react@19.0.0__react@19.0.0/node_modules/@orama/react-components/dist/hydrate-AIHPUTTV.mjs"
+    ]
+  },
+  "_layout-GmzwS7gB.css": {
+    "file": "assets/layout-GmzwS7gB.css",
+    "src": "_layout-GmzwS7gB.css"
+  },
+  "_layout-UQpxOEHG.js": {
+    "file": "assets/layout-UQpxOEHG.js",
+    "name": "layout",
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_context-Ndc2xEmu.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js",
+      "_index-Ci-uESjJ.js"
+    ],
+    "dynamicImports": [
+      "_index-ta39k6Rz.js",
+      "../../examples/openapi-openai/virtual:xyd-plugin-orama-data"
+    ],
+    "css": [
+      "assets/layout-GmzwS7gB.css"
+    ]
+  },
+  "_virtual_xyd-settings-Dh1hKWkj.js": {
+    "file": "assets/virtual_xyd-settings-Dh1hKWkj.js",
+    "name": "virtual_xyd-settings"
+  },
+  "app/entry.client.tsx": {
+    "file": "assets/entry.client-DpqOz2Ai.js",
+    "name": "entry.client",
+    "src": "app/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_index-Ci-uESjJ.js"
+    ]
+  },
+  "app/public.ts?__react-router-build-client-route": {
+    "file": "assets/public-l0sNRNKZ.js",
+    "name": "public",
+    "src": "app/public.ts?__react-router-build-client-route",
+    "isEntry": true
+  },
+  "app/robots.ts?__react-router-build-client-route": {
+    "file": "assets/robots-l0sNRNKZ.js",
+    "name": "robots",
+    "src": "app/robots.ts?__react-router-build-client-route",
+    "isEntry": true
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root-B_nF_Fna.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js"
+    ]
+  },
+  "app/sitemap.ts?__react-router-build-client-route": {
+    "file": "assets/sitemap-l0sNRNKZ.js",
+    "name": "sitemap",
+    "src": "app/sitemap.ts?__react-router-build-client-route",
+    "isEntry": true
+  },
+  "plugins/xyd-plugin-docs/src/pages/layout.tsx?__react-router-build-client-route": {
+    "file": "assets/layout-DF44KPS_.js",
+    "name": "layout",
+    "src": "plugins/xyd-plugin-docs/src/pages/layout.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_layout-UQpxOEHG.js",
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_context-Ndc2xEmu.js",
+      "_index-Ci-uESjJ.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js"
+    ]
+  },
+  "plugins/xyd-plugin-docs/src/pages/page.tsx?__react-router-build-client-route": {
+    "file": "assets/page-Ditk6rBt.js",
+    "name": "page",
+    "src": "plugins/xyd-plugin-docs/src/pages/page.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-NL6KNZEE-DIboV0aN.js",
+      "_context-Ndc2xEmu.js",
+      "_virtual_xyd-settings-Dh1hKWkj.js",
+      "_index-Ci-uESjJ.js"
+    ]
+  }
+}
