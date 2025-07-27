@@ -1,4 +1,4 @@
-import {OpenAPIV3} from "openapi-types";
+import { OpenAPIV3 } from "openapi-types";
 
 import { Settings } from "@xyd-js/core";
 import {
@@ -80,9 +80,9 @@ interface OperationExample {
 type Examples = string | OperationExample | OperationExample[]
 
 export function uniformOpenAIMeta({
-                                      references,
-                                      defer,
-                                  }: UniformPluginArgs) {
+    references,
+    defer,
+}: UniformPluginArgs) {
     // TODO: in the future better api to get uniform specific data at beginning (e.g openapi schema)
     let schema: ExtensionSchema | undefined
     const refByOperationId: {
